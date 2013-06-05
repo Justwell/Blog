@@ -5,6 +5,7 @@
     "permalink": "{{directory}}/{{filename}}.html",
     "writers": [
         "nico.PostWriter",
+        "nico.PageWriter",
         "nico.FileWriter",
         "nico.StaticWriter"
     ]
